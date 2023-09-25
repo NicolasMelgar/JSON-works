@@ -1,0 +1,30 @@
+{
+    "name": "Nicolas",
+    "surname": "Melgar",
+    "age": 43,
+    "married": false,
+    "hoby": [
+        "read",
+        "sleep",
+        "code"
+    ],
+    "adress": {
+        "street": "Callejon Werner",
+        "town": "El Bolsón",
+        "state": "Rio negro"
+    },
+    "amigos": [
+        {
+            "name": "pepe",
+            "nickname": "pepe123"
+        },
+        {
+            "name": "toto",
+            "nickname": "toto123"
+        },
+        {
+            "name": "tata",
+            "nickname": "tata123"
+        }
+    ]
+}
